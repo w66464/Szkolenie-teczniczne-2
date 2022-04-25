@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WdoZMvPqQwtmkZY9fRUb/4IjZzGGhlaDU8dhyo6akUtJ9ohO/WrhmOaV+dHOJaJEk+HY825af89uLyu5GbfeA==",
+  "success": true,
+  "projectFilePath": "F:\\ST2\\Szkolenie-teczniczne-2\\BiuroPracy.BusinessLogic\\BiuroPracy.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\w66464\\.nuget\\packages\\iesi.collections\\4.0.0.4000\\iesi.collections.4.0.0.4000.nupkg.sha512",
+    "C:\\Users\\w66464\\.nuget\\packages\\nhibernate\\4.0.0.4000\\nhibernate.4.0.0.4000.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Element NHibernate 4.0.0.4000 zależy od elementu Iesi.Collections (>= 4.0.0 && < 5.0.0), ale nie znaleziono elementu Iesi.Collections 4.0.0. Najlepsze rozpoznane przybliżone dopasowanie to Iesi.Collections 4.0.0.4000.",
+      "libraryId": "Iesi.Collections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „Iesi.Collections 4.0.0.4000” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „.NETCoreApp,Version=v3.1”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "Iesi.Collections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Pakiet „NHibernate 4.0.0.4000” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „.NETCoreApp,Version=v3.1”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "libraryId": "NHibernate",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

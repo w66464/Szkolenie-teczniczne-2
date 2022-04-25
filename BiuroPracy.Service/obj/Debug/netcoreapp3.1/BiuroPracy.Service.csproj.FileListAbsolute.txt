@@ -1,0 +1,9 @@
+F:\ST2\BiuroPracy\BiuroPracy.Service\bin\Debug\netcoreapp3.1\BiuroPracy.Service.deps.json
+F:\ST2\BiuroPracy\BiuroPracy.Service\bin\Debug\netcoreapp3.1\BiuroPracy.Service.dll
+F:\ST2\BiuroPracy\BiuroPracy.Service\bin\Debug\netcoreapp3.1\BiuroPracy.Service.pdb
+F:\ST2\BiuroPracy\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\ST2\BiuroPracy\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.AssemblyInfoInputs.cache
+F:\ST2\BiuroPracy\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.AssemblyInfo.cs
+F:\ST2\BiuroPracy\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.csproj.CoreCompileInputs.cache
+F:\ST2\BiuroPracy\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.dll
+F:\ST2\BiuroPracy\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.pdb

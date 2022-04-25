@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BiuroPracy.BusinessLogic/1.0.0": {
+        "dependencies": {
+          "NHibernate": "4.0.0.4000"
+        },
+        "runtime": {
+          "BiuroPracy.BusinessLogic.dll": {}
+        }
+      },
+      "Iesi.Collections/4.0.0.4000": {
+        "runtime": {
+          "lib/net40/Iesi.Collections.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.4000"
+          }
+        }
+      },
+      "NHibernate/4.0.0.4000": {
+        "dependencies": {
+          "Iesi.Collections": "4.0.0.4000"
+        },
+        "runtime": {
+          "lib/net40/NHibernate.dll": {
+            "assemblyVersion": "4.0.0.4000",
+            "fileVersion": "4.0.0.4000"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BiuroPracy.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Iesi.Collections/4.0.0.4000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fLQKwZovMOhjte47Op+2YWLpmncQ/siA7hOdmG2eBLTFjp81s+gGkkGnDetOhBqYnmWK8g2kyx1DP9uNaJ68Ew==",
+      "path": "iesi.collections/4.0.0.4000",
+      "hashPath": "iesi.collections.4.0.0.4000.nupkg.sha512"
+    },
+    "NHibernate/4.0.0.4000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zHwxTNHQM+ilc6/vKuFYjmRms+Iw6wCL0LsOiR9Imu+Z1sK0MO0gmSlaeR6gTy4cUNjqPZrU8ym5KPBwTp4Ebg==",
+      "path": "nhibernate/4.0.0.4000",
+      "hashPath": "nhibernate.4.0.0.4000.nupkg.sha512"
+    }
+  }
+}

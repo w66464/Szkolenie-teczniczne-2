@@ -1,0 +1,10 @@
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.deps.json
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.dll
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.pdb
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.csproj.AssemblyReference.cache
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.AssemblyInfoInputs.cache
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.AssemblyInfo.cs
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.csproj.CoreCompileInputs.cache
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.dll
+F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.pdb

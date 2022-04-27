@@ -11,9 +11,8 @@
 			300
 		</property>
 		<property name="connection.connection_string">
-			Data Source=tutajWpisacIPServera;Initial Catalog=BiuroPracy;User
-			ID=tutajWpisacUzytkownika_MozeBycStud;Password=tutajWPisacHaslo_MozeBycWSiZ;
-			To jest authentykacja dla SQL, jak chce dla Windowsa, to musze dodac linijke connection...costamcostam
+			Data Source=10.200.2.18;Initial Catalog=BiuroPracy66464;User
+			ID=stud;Password=wsiz;
 		</property>
 		<property name="dialect">NHibernate.Dialect.MsSql2008Dialect</property>
 		<property name="show_sql">false</property>

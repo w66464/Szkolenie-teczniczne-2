@@ -17,3 +17,13 @@ C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj
 C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.csproj.CoreCompileInputs.cache
 C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.dll
 C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.pdb
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\bin\Debug\netcoreapp3.1\BiuroPracy.Domain.deps.json
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\bin\Debug\netcoreapp3.1\BiuroPracy.Domain.dll
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\bin\Debug\netcoreapp3.1\BiuroPracy.Domain.pdb
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.csproj.AssemblyReference.cache
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.AssemblyInfoInputs.cache
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.AssemblyInfo.cs
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.csproj.CoreCompileInputs.cache
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.dll
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Domain\obj\Debug\netcoreapp3.1\BiuroPracy.Domain.pdb

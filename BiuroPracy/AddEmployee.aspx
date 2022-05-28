@@ -14,5 +14,9 @@
         <div class="form-group">
             <asp:Button ID="btnSave" CssClass="btn-primary" runat="server" Text="Zapisz" />
         </div>
+        <div>
+            <asp:Button ID="btnTestNHibernate" runat="server" Text="TestNHibernate" OnClick="btnTestNhibernate_Click" />
+        </div>
+
     </div>
 </asp:Content>

@@ -1,1 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping namespace="BiuroPracy.Domain" assembly="BiuroPracy.Domain" xmlns="urn:nhibernate-mapping-2.2">
+	<class name="Profession" table="Profession">
+		<id name="Id" column="Id" type="Int32">
+			<generator class="native" />
+		</id>
+		<property name="Name" type="String" column="Name" length="255" />
+	</class>
+</hibernate-mapping>

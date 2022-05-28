@@ -5,6 +5,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Mapping\Contract.hbm.xml" />
+    <None Remove="Mapping\Employee.hbm.xml" />
+    <None Remove="Mapping\Profession.hbm.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Mapping\Contract.hbm.xml" />
+    <EmbeddedResource Include="Mapping\Employee.hbm.xml" />
+    <EmbeddedResource Include="Mapping\Profession.hbm.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Domain\" />
   </ItemGroup>
 

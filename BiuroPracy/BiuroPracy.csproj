@@ -139,6 +139,16 @@
       <LastGenOutput>GlobalResource.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BiuroPracy.BusinessLogic\BiuroPracy.BusinessLogic.csproj">
+      <Project>{99032aa1-3b79-40ce-9da8-7182e86b98ad}</Project>
+      <Name>BiuroPracy.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BiuroPracy.Domain\BiuroPracy.Domain.csproj">
+      <Project>{fe6667af-5d4f-4f67-96e0-31cc3e4e017d}</Project>
+      <Name>BiuroPracy.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

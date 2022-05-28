@@ -8,20 +8,30 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\dykman\\.nuget\\packages\\": {}
+    "C:\\Users\\w66464\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Mikolaj\\Studia\\Semestr IV\\ST2\\L1\\Szkolenie-teczniczne-2\\BiuroPracy.Domain\\BiuroPracy.Domain.csproj",
+      "projectUniqueName": "F:\\ST2\\Szkolenie-teczniczne-2\\BiuroPracy.Domain\\BiuroPracy.Domain.csproj",
       "projectName": "BiuroPracy.Domain",
-      "projectPath": "C:\\Mikolaj\\Studia\\Semestr IV\\ST2\\L1\\Szkolenie-teczniczne-2\\BiuroPracy.Domain\\BiuroPracy.Domain.csproj",
-      "packagesPath": "C:\\Users\\dykman\\.nuget\\packages\\",
-      "outputPath": "C:\\Mikolaj\\Studia\\Semestr IV\\ST2\\L1\\Szkolenie-teczniczne-2\\BiuroPracy.Domain\\obj\\",
+      "projectPath": "F:\\ST2\\Szkolenie-teczniczne-2\\BiuroPracy.Domain\\BiuroPracy.Domain.csproj",
+      "packagesPath": "C:\\Users\\w66464\\.nuget\\packages\\",
+      "outputPath": "F:\\ST2\\Szkolenie-teczniczne-2\\BiuroPracy.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\dykman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\w66464\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

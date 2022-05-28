@@ -8,3 +8,5 @@ C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\Biuro
 C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.csprojResolveAssemblyReference.cache
 C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.dll
 C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.pdb
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.dll
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.pdb

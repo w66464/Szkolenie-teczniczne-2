@@ -122,3 +122,5 @@ C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy\obj\Debug\
 C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy\obj\Debug\BiuroPracy.pdb
 C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy\bin\Iesi.Collections.dll
 C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy\bin\NHibernate.dll
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy\obj\Debug\BiuroPracy.dll
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy\obj\Debug\BiuroPracy.pdb

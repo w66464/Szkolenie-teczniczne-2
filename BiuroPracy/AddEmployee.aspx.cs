@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
+
 namespace BiuroPracy
 {
     public partial class AddEmployee : System.Web.UI.Page
@@ -12,6 +13,12 @@ namespace BiuroPracy
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+
+        protected void btnTestNHibernate_Click(object sender, EventArgs e)
+        {
+            IBiuroPracyApi api = new BiuroPracyApi();
+            api.TestNHibernate();
         }
     }
 }

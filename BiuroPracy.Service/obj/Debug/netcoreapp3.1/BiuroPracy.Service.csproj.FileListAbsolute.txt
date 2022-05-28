@@ -17,3 +17,13 @@ C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.Service\ob
 C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.csproj.CoreCompileInputs.cache
 C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.dll
 C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.pdb
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\bin\Debug\netcoreapp3.1\BiuroPracy.Service.deps.json
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\bin\Debug\netcoreapp3.1\BiuroPracy.Service.dll
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\bin\Debug\netcoreapp3.1\BiuroPracy.Service.pdb
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.csproj.AssemblyReference.cache
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.AssemblyInfoInputs.cache
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.AssemblyInfo.cs
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.csproj.CoreCompileInputs.cache
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.dll
+F:\ST2\Szkolenie-teczniczne-2\BiuroPracy.Service\obj\Debug\netcoreapp3.1\BiuroPracy.Service.pdb

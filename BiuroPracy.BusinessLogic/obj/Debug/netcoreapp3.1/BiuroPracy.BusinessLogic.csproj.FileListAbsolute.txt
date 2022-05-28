@@ -8,3 +8,13 @@ F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.Bu
 F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.csproj.CoreCompileInputs.cache
 F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.dll
 F:\ST2\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.pdb
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\bin\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.deps.json
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\bin\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.dll
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\bin\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.pdb
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.csproj.AssemblyReference.cache
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.AssemblyInfoInputs.cache
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.AssemblyInfo.cs
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.dll
+C:\Mikolaj\Studia\Semestr IV\ST2\L1\Szkolenie-teczniczne-2\BiuroPracy.BusinessLogic\obj\Debug\netcoreapp3.1\BiuroPracy.BusinessLogic.pdb

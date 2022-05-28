@@ -72,28 +72,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\w66464\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\dykman\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ST2\\Szkolenie-teczniczne-2\\BiuroPracy.BusinessLogic\\BiuroPracy.BusinessLogic.csproj",
+      "projectUniqueName": "C:\\Mikolaj\\Studia\\Semestr IV\\ST2\\L1\\Szkolenie-teczniczne-2\\BiuroPracy.BusinessLogic\\BiuroPracy.BusinessLogic.csproj",
       "projectName": "BiuroPracy.BusinessLogic",
-      "projectPath": "F:\\ST2\\Szkolenie-teczniczne-2\\BiuroPracy.BusinessLogic\\BiuroPracy.BusinessLogic.csproj",
-      "packagesPath": "C:\\Users\\w66464\\.nuget\\packages\\",
-      "outputPath": "F:\\ST2\\Szkolenie-teczniczne-2\\BiuroPracy.BusinessLogic\\obj\\",
+      "projectPath": "C:\\Mikolaj\\Studia\\Semestr IV\\ST2\\L1\\Szkolenie-teczniczne-2\\BiuroPracy.BusinessLogic\\BiuroPracy.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\dykman\\.nuget\\packages\\",
+      "outputPath": "C:\\Mikolaj\\Studia\\Semestr IV\\ST2\\L1\\Szkolenie-teczniczne-2\\BiuroPracy.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\w66464\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\dykman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -138,7 +130,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -147,7 +139,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Element NHibernate 4.0.0.4000 zależy od elementu Iesi.Collections (>= 4.0.0 && < 5.0.0), ale nie znaleziono elementu Iesi.Collections 4.0.0. Najlepsze rozpoznane przybliżone dopasowanie to Iesi.Collections 4.0.0.4000.",
+      "message": "NHibernate 4.0.0.4000 depends on Iesi.Collections (>= 4.0.0 && < 5.0.0) but Iesi.Collections 4.0.0 was not found. An approximate best match of Iesi.Collections 4.0.0.4000 was resolved.",
       "libraryId": "Iesi.Collections",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
@@ -157,7 +149,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „Iesi.Collections 4.0.0.4000” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „.NETCoreApp,Version=v3.1”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Package 'Iesi.Collections 4.0.0.4000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
       "libraryId": "Iesi.Collections",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
@@ -167,7 +159,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Pakiet „NHibernate 4.0.0.4000” został przywrócony przy użyciu elementu „.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8” zamiast platformy docelowej projektu „.NETCoreApp,Version=v3.1”. Ten pakiet może nie być w pełni kompatybilny z Twoim projektem.",
+      "message": "Package 'NHibernate 4.0.0.4000' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
       "libraryId": "NHibernate",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"

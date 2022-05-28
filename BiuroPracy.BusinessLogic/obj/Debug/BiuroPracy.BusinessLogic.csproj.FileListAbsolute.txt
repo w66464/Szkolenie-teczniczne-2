@@ -1,0 +1,10 @@
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\hibernate.cfg.xml
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.BusinessLogic.dll
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.BusinessLogic.pdb
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.Domain.dll
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\Iesi.Collections.dll
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\NHibernate.dll
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\bin\Debug\BiuroPracy.Domain.pdb
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.dll
+C:\Users\lukasz.piechocki\documents\visual studio 2015\Projects\BiuroPracy\BiuroPracy.BusinessLogic\obj\Debug\BiuroPracy.BusinessLogic.pdb
